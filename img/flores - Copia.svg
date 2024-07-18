@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="600">
+  <!-- Repita o conteúdo do seu arquivo SVG de folha aqui várias vezes para formar o arco -->
+  <!-- Exemplo de um grupo de folhas -->
+  <g transform="translate(400, 300) rotate(-30)">
+    <!-- Conteúdo do seu arquivo SVG de folha -->
+  </g>
+  <g transform="translate(350, 400) rotate(-15)">
+    <!-- Conteúdo do seu arquivo SVG de folha -->
+  </g>
+  <!-- Continue adicionando mais grupos transformados para criar o arco -->
+</svg>
