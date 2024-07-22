@@ -372,45 +372,34 @@ position: relative;
 
 
 
-.contador{
-    width: 300px;
-    height: 300px;
+.contador {
+    width: 305px;
+    height: 305px;
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    background: url("../img/arc.svg");
+    background: url(../img/arco.png);
     background-repeat: no-repeat;
     background-position: center center;
-    background-size: contain;
+    background-size: cover;
     position: relative;
-    z-index: 2;
+    z-index: 5;
     top: -130px;
-    
-
 }
 
-
-.contador-container{
+.contador-container {
     text-align: center;
     display: flex;
     flex-direction: column;
     justify-content: center;
-    width: 300px;
-    height: 300px;
-    margin-right: 30px;
-    background-size: contain;
-    background-repeat: no-repeat;
+    width: 260px;
+    height: 260px;
+    border-radius: 50%;
     padding: 40px;
     box-sizing: border-box;
-   
-
-    
-
-
 
 }
-
 
 
 .contador p{
