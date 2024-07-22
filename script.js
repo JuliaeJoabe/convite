@@ -173,7 +173,7 @@ window.onclick = function (event) {
 
 
 document.querySelector('.copy-button').addEventListener('click', function () {
-  var pixKey = '000.000.000-0'; // Substitua pelo valor da sua chave Pix
+  var pixKey = '04638167063'; // Substitua pelo valor da sua chave Pix
   var textArea = document.createElement('textarea');
   textArea.value = pixKey;
   document.body.appendChild(textArea);
